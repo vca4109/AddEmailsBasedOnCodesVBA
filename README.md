@@ -1,4 +1,4 @@
-📧 Add Emails Based on Codes – Excel VBA Script
+📧 Add Emails Based on Codes – Excel VBA Script-
 This VBA macro automates the process of scanning a reference list in the "ITR" sheet and generating a unique list of email addresses based on embedded letter codes. The compiled list is then displayed in the "EMAIL" sheet.
 
 ✅ What It Does
